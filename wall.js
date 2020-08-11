@@ -27,7 +27,7 @@ class wall
 			//strokeWeight(4);
 			stroke(255)
 			angleMode(RADIANS)
-			fill(255)
+			fill("red")
 			rect(0,0,this.width,this.height);
 			pop()
 			
